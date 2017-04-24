@@ -28,7 +28,7 @@ while tryCount < 3 and not rightGuess:
         print("too high!")
 
 if rightGuess:
-    print("you guessed right in " + str(tryCount) + "trie(s)")
+    print("you guessed the random number right in " + str(tryCount) + "trie(s)")
 else:
     print("sorry, you couldn't guess the number "+ str(aRandomNum) + " within " + str(tryCount) + " tries.")
 
