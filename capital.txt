@@ -1,0 +1,5 @@
+india,new delhi
+south africa,cape town
+pakistan,islamabad
+sri lanka,colombo
+england,london
